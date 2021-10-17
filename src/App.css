@@ -1,0 +1,43 @@
+#app {
+	display: grid;
+	grid-template-rows: 1fr 6fr 7fr;
+	grid-template-columns: 1fr;
+}
+
+#status-bar {
+	background-color: blue;
+}
+
+#status-panel {
+	background: yellow;
+}
+
+#status-panel > .title {
+	height: 10%;
+	background-color: red;
+}
+
+#status-panel > .enable-control {
+	height: 45%;
+	background-color: turquoise;
+}
+
+#status-panel > .current-state {
+	height: 45%;
+	background-color: chartreuse;
+}
+
+#control-panel {
+	background-color: green;
+}
+
+@media only screen and (min-width: 500px) {
+	#app {
+		grid-template-rows: 1fr 6fr;
+		grid-template-columns: 1fr 1fr;
+	}
+
+	#status-bar {
+		grid-column: span 2;
+	}
+}
