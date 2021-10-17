@@ -1,0 +1,13 @@
+<svg id="estado-icon" width="50" height="50" version="1.1" viewBox="0 0 13.2 13.2" xmlns="http://www.w3.org/2000/svg">
+	<g fill="inherit" stroke="#000" stroke-linejoin="round">
+		<rect x="1.03" y="1.06" width="11.2" height="11.1" stroke-linecap="round" stroke-width=".529" fill="inherit"/>
+		<g fill="none" transform="translate(-.526 -.57)">
+			<path d="m2.54 10.3h7.45" stroke-linecap="round" stroke-width=".265px" fill="none"/>
+			<g fill="none">
+				<path d="m4.14 10.4-0.0247-2.4h4.41v2.45" stroke-width=".265" fill="none"/>
+				<path d="m6.21 8.06v-1.43l2.29-2.34 1.95 1.87 0.838 0.0493 0.197 0.715" stroke-width=".529" fill="none"/>
+				<path d="m10.5 6.16-0.197 0.69 0.567 0.46" stroke-width=".529" fill="none"/>
+			</g>
+		</g>
+	</g>
+</svg>
